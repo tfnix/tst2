@@ -9,10 +9,10 @@ Component Textinput para Vue3 (composition API)
 
 ## Disclaimer 
 
-As diferentes implementações do contentEditable pelos nevegadores tornam o uso 
+As diferentes implementações do contentEditable pelos navegadores tornam o uso 
 um pouco complexo..
 
-Uma pesquisa na web demostra esse sentimento
+Uma pesquisa na web demonstra esse sentimento
 
 
 > ContentEditable — The Good, the Bad and the Ugly - CKEditor
