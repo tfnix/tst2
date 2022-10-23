@@ -27,6 +27,6 @@ Uma pesquisa na web demostra esse sentimento
 
 
 
-Aqui uma [Demo](https://tfnix.github.io/tst2/) experimental, 
+Aqui uma [demo](https://tfnix.github.io/tst2/) experimental, 
 
 Have fun! 
